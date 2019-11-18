@@ -1,0 +1,1 @@
+([('frontend', '/Users/generic2/Desktop/demo/dist/frontend', 'EXECUTABLE')],)
