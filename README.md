@@ -8,3 +8,4 @@ Step 3: Double click dist folder
 
 Step 4: Double click frontend exec file
 
+Link to README directions: https://youtu.be/02FclDEJ1Vk
